@@ -1,5 +1,5 @@
 Journal Paper 
 Author: Aleksandra Pawlik, John Smith
-Title
+Title: Our paper about proteins
 
 References
